@@ -8,7 +8,7 @@ class PdfDownloadScreen extends StatelessWidget {
 
   final PdfDownloadController controller = Get.put(PdfDownloadController());
 
-  final String linkDetails = 'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf';
+  final String linkDetails = 'https://www.rd.usda.gov/sites/default/files/pdf-sample_0.pdf';
 
   @override
   Widget build(BuildContext context) {
