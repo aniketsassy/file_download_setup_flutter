@@ -4,11 +4,11 @@
 
 ```yaml
 dependencies:
-  get: ^4.6.6
-  dio: ^5.4.0
-  permission_handler: ^11.3.0
-  file_saver: ^0.2.12
-  device_info_plus: ^10.1.0
+  get: ^4.7.3
+  dio: ^5.9.0
+  permission_handler: ^12.0.1
+  file_saver: ^0.3.1
+  device_info_plus: ^12.3.0
 ```
 ## 🤖 Android Configuration
 
